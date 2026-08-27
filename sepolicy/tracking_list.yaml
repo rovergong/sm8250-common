@@ -1,0 +1,2 @@
+non_coredomain_for_platform_apps:
+  - name: org.lineageos.settings
